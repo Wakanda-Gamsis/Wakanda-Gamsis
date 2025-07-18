@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wakanda-Gamsis
 - 👀 I’m interested in coding ...
 - 🌱 I’m learnt in  python.
-- Most Of y Projects Are In the Dev-Serpent Organization , Owned By me
+- Most Of my Projects Are In the Dev-Serpent Organization , Owned By me
 - 📫 How to reach my goals...
 
 <!---
